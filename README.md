@@ -1,2 +1,2 @@
-# Alineacion_tecnica
+# Alineacion Tecnica
 
